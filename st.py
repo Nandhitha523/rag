@@ -1,4 +1,4 @@
-!pip install streamlit langchain langchain-community faiss-cpu transformers pypdf
+pip install streamlit langchain langchain-community faiss-cpu transformers pypdf
 import os
 import tempfile
 import streamlit as st
